@@ -1,0 +1,19 @@
+h4 {
+    color: red;
+}
+
+.txt1 {
+    font-weight: bold;
+}
+
+.txt1 span {
+    font-size: 10px;
+}
+
+.txt2 {
+    color: teal;
+    
+}
+.txt1, .txt2 {
+    font-size: 25px;
+}
